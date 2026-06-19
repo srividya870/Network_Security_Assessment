@@ -1,0 +1,5 @@
+My First Git Assignment Project
+
+Author: Pairala Srividya
+
+This is a dummy project created for Summer Internship 2026 Git Assignment.
